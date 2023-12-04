@@ -1,3 +1,4 @@
 Conociomientos
 
 1.- Base de datos sql server
+2.- desarrollo en asp net core
